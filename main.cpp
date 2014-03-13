@@ -5,7 +5,10 @@
  *      Author: vijayakanth
  */
 
+#include <iostream>
+
 int main(int argc, char *argv[])
 {
+	std::cout << "HelloWorld" << std::endl;
 	return 0;
 }
